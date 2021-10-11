@@ -46,10 +46,6 @@
 }
 
 @media screen and (max-width: 600px) {
-    #navbar.expanded {
-        position: relative;
-    }
-
     #navbar.expanded .icon {
         position: absolute;
         right: 0;
