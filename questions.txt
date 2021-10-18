@@ -1,0 +1,24 @@
+Question 1:
+    What is the attribute for embedding a description in an image?
+    ["src", "class", "height", "alt", "data-atf", "data-frt"]
+    answer: "alt"
+
+Question 2:
+    Is making text bold a suitable way of distinguishing key information?
+    ["Yes", "No"]
+    anser: "Yes"
+
+Question 3:
+    How should you present numbered text?
+    ["A paragraph", "An ordered list", "An unordered list", "Alt text in an image", "A table"]
+    anser: "An ordered list"
+
+Question 4:
+    Is it better to specify the font of text using in-line style attributes or defining font for all of one element in a style sheet?
+    ["In-line style", "Style sheet"]
+    anser = "Style sheet"
+
+Question 5:
+    How does one specify the language of the website?
+    ["lang=\"en\"", "lang=\"eng\"", "lang=\"UTF-8\""]
+    anser = "lang=\"en\""
