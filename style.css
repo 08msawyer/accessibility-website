@@ -16,3 +16,14 @@ body {
 li {
     margin-bottom: 20px;
 }
+
+.btn-primary {
+    background-color: #07bef3;
+    border-radius: 8px;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: white;
+    font-weight: bolder;
+    padding: 6px 16px;
+}
